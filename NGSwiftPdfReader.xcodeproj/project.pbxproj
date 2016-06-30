@@ -512,7 +512,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.olbuz.NGSwiftPdfReader;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "/Users/nitingohel/Olbuz Projects/Github/NGSwiftPdfReader/NGSwiftPdfReader/Bridge-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "$(SRCROOT)/NGSwiftPdfReader/Bridge-Header.h";
 			};
 			name = Debug;
 		};
@@ -525,7 +525,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.olbuz.NGSwiftPdfReader;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "/Users/nitingohel/Olbuz Projects/Github/NGSwiftPdfReader/NGSwiftPdfReader/Bridge-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "$(SRCROOT)/NGSwiftPdfReader/Bridge-Header.h";
 			};
 			name = Release;
 		};
@@ -548,6 +548,7 @@
 				469912681D24EC8E00100B44 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
