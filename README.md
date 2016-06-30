@@ -1,5 +1,9 @@
 # NGSwiftPdfReader
-This is a sample project of Swift Pdf reader that done by using vrf reader objective c class
+This is a sample project of Swift2x Pdf reader that done by using vrf reader objective c class
+
+# RunTime Output
+
+![ScreenShot](https://github.com/nitingohel/NGSwiftPdfReader/blob/master/reader.gif)
 
 # How to use:
 
